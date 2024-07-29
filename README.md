@@ -1,4 +1,7 @@
 # Health_analytics
 
 ## Project Overview 
-This data analysis project aims to provide insights into the health performance of an e-commerce company over the past year. By analyzing various aspects of the sales data, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the company's performance.
+
+The "OCD Patient Dataset: Demographics & Clinical Data" is a structured CSV file containing comprehensive information on 1500 individuals diagnosed with Obsessive-Compulsive Disorder (OCD). This dataset serves as a valuable resource for research and analysis within the field of mental health.
+
+By Analyzing few aspects of the dataset, we seek to know how much people have had history of OCD for the past year, the percentage of male to female gender and others.
